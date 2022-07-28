@@ -1,0 +1,15 @@
+/home/tav_wesley/Documents/algorithm-problem-solving/bin/Debug/net6.0/algorithm-problem-solving
+/home/tav_wesley/Documents/algorithm-problem-solving/bin/Debug/net6.0/algorithm-problem-solving.deps.json
+/home/tav_wesley/Documents/algorithm-problem-solving/bin/Debug/net6.0/algorithm-problem-solving.runtimeconfig.json
+/home/tav_wesley/Documents/algorithm-problem-solving/bin/Debug/net6.0/algorithm-problem-solving.dll
+/home/tav_wesley/Documents/algorithm-problem-solving/bin/Debug/net6.0/ref/algorithm-problem-solving.dll
+/home/tav_wesley/Documents/algorithm-problem-solving/bin/Debug/net6.0/algorithm-problem-solving.pdb
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/algorithm-problem-solving.csproj.AssemblyReference.cache
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/algorithm-problem-solving.GeneratedMSBuildEditorConfig.editorconfig
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/algorithm-problem-solving.AssemblyInfoInputs.cache
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/algorithm-problem-solving.AssemblyInfo.cs
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/algorithm-problem-solving.csproj.CoreCompileInputs.cache
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/algorithm-problem-solving.dll
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/ref/algorithm-problem-solving.dll
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/algorithm-problem-solving.pdb
+/home/tav_wesley/Documents/algorithm-problem-solving/obj/Debug/net6.0/algorithm-problem-solving.genruntimeconfig.cache
